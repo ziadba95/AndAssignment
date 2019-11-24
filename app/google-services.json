@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "320533153448",
+    "firebase_url": "https://anda1-9bac0.firebaseio.com",
+    "project_id": "anda1-9bac0",
+    "storage_bucket": "anda1-9bac0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320533153448:android:373cda76299bb216c0e49d",
+        "android_client_info": {
+          "package_name": "com.ziad.anda1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320533153448-dqqvibup2upo6fjkh884fve7bvlj24iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ziad.anda1",
+            "certificate_hash": "4aae76838b4e2861bb96ba796514678a0ffe72a3"
+          }
+        },
+        {
+          "client_id": "320533153448-41svt18cnc35fodd6ln060cipc2vgcmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb_2EmHcvL6fiyOOluw_EWUfHnTIMRvuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320533153448-41svt18cnc35fodd6ln060cipc2vgcmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
